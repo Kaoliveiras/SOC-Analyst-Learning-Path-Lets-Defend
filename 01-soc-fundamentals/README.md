@@ -1,5 +1,4 @@
-# 🛡️ SOC FUNDAMENTALS
-
+# 🛡️ SOC Fundamentals
 
 ## 📌 Overview
 This module introduced the structure, technologies, and responsibilities within a Security Operations Center (SOC).
